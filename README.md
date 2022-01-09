@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Matthew Bates</h1>
 <h3 align="center">I'm a software engineering student at Flatiron School.</h3>
 
-- 🔭 I’m currently working on **data structures & algorithms**
+- 🔭 I’m currently working on: **data structures & algorithms**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning: **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/matthewbates?tab=repositories](https://github.com/matthewbates?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/matthewbates?tab=repositories](https://github.com/matthewbates?tab=repositories)
 
-- 💬 Ask me about **React.js & Vanilla JavaScript**
+- 💬 Ask me about: **React.js & Vanilla JavaScript**
 
-- 📫 How to reach me **matthewhcbates@gmail.com**
+- 📫 How to reach me: **matthewhcbates@gmail.com**
 
-- ⚡ Fun fact **When I'm not programming, I enjoy backpacking 🎒🏔, skiing ⛷, & spending time with my Australian Shepherd, Sterling 🐶**
+- ⚡ Fun fact: **when I'm not programming, I enjoy backpacking 🎒🏔, skiing ⛷, & spending time with my Australian Shepherd, Sterling 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
