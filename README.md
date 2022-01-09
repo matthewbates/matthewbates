@@ -1,13 +1,13 @@
-### Hi there 👋 my name is Matthew Bates & I'm a software engineering student at Flatiron School.
+<h2>Hi there 👋 my name is Matthew Bates & I'm a software engineering student at Flatiron School.</h2>
 
 
-- 🔭 I’m currently working on data structures and algorithms
-- 🌱 I’m currently learning React.js
-- 💬 Ask me about React & Vanilla JavaScript
+- 🔭 I’m currently working on: <b>data structures & algorithms</b>
+- 🌱 I’m currently learning: <b>React.js</b>
+- 💬 Ask me about: <b>React & Vanilla JavaScript</b>
 - 📫 How to reach me: matthewhcbates@gmail.com
-- ⚡ Fun fact: I live in Manitou Springs, CO and when I'm not programming, I enjoy backpacking 🎒🏔 and skiing ⛷
+- ⚡ Fun fact: When I'm not programming, I enjoy backpacking 🎒🏔, skiing ⛷, & spending time with my Australian Shepherd, Sterling 🐶
 
-<h3>Languages & Tools:</h3>
+<h2>Languages & Tools:</h2>
 
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
