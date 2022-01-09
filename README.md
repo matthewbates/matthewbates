@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 my name is Matthew Bates & I'm a software engineering student at Flatiron School.
 
-<!--
-**matthewbates/matthewbates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on data structures and algorithms
+- 🌱 I’m currently learning React.js
+- 💬 Ask me about React & Vanilla JavaScript
+- 📫 How to reach me: matthewhcbates@gmail.com
+- ⚡ Fun fact: I live in Manitou Springs, CO and when I'm not programming, I enjoy backpacking 🎒🏔 and skiing ⛷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages & Tools:
+https://getbootstrap.com/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://www.mysql.com/
+https://postman.com/
+https://reactjs.org/
