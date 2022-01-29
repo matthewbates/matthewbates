@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **data structures & algorithms**
 
-- 🌱 I’m currently learning: **React.js**
+- 🌱 I’m currently learning: **Ruby**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/matthewbates?tab=repositories](https://github.com/matthewbates?tab=repositories)
 
