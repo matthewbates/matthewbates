@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio; Data Structures & Algorithms**
 
-- 🌱 I’m currently learning **Rails Authentication**
+- 🌱 I’m currently learning **Global State (Redux) & Advanced Auth**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matthewbates?tab=repositories](https://github.com/matthewbates?tab=repositories)
 
