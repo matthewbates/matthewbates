@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Personal Portfolio; Data Structures & Algorithms**
 
-- 🌱 I’m currently learning **Global State (Redux) & Advanced Auth**
+- 🌱 I’m currently learning **new CSS frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/matthewbates?tab=repositories](https://github.com/matthewbates?tab=repositories)
+- 👨‍💻 All of my projects I'm proud of are right here!
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Vanilla JavaScript, React, Ruby, Rails**
+- 💬 Ask me about **JavaScript, React, Ruby, Rails, Redux, SQL**
 
 - 📫 How to reach me **matthewhcbates@gmail.com**
 
