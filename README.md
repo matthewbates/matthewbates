@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio; Data Structures & Algorithms**
+- 🔭 I’m currently working on **Data Structures & Algorithms**
+
+- 💼 Check out my portfolio here: https://matthew-bates-portfolio.herokuapp.com/
 
 - 🌱 I’m currently learning **New CSS Frameworks**
 
