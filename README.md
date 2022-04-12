@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Vanilla JavaScript, React, Ruby, Rails, SQL**
+- 💬 Ask me about **JavaScript, React, Ruby, Rails, Redux, SQL**
 
 - 📫 How to reach me **matthewhcbates@gmail.com**
 
