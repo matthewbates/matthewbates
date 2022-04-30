@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Matthew Bates</h1>
-<h3 align="center">I'm a recent graduate of Flatiron Schools' Software Engineering program.</h3>
+<h3 align="center">I'm a passionate, driven technologist & content creator.</h3>
 
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
