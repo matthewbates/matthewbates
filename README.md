@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio; Data Structures & Algorithms**
+- 🔭 I’m currently working on **Data Structures & Algorithms, Advanced React/Redux, & Code Wars Kata**
 
-- 🌱 I’m currently learning **New CSS Frameworks**
+- 🌱 I’m currently learning **Sorting Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matthewbates?tab=repositories](https://github.com/matthewbates?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Vanilla JavaScript, React, Ruby, Rails, SQL**
+- 💬 Ask me about **JavaScript, React, Ruby, Rails, SQL**
 
-- 📫 How to reach me **matthewhcbates@gmail.com**
+- 📫 How to reach me **mhcb@tutanota.com**
 
 - ⚡ Fun fact **When I'm not programming, I enjoy backpacking 🎒🏔, skiing ⛷, & spending time with my Australian Shepherd, Sterling 🐶**
 
