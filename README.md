@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
 
-- 🔭 I’m currently working on **Data Structures & Algorithms, Advanced React/Redux, & Code Wars Kata**
+- 🔭 I’m currently working on **Mobile website for my friends' restaurant**
 
-- 🌱 I’m currently learning **Sorting Algorithms**
+- 🌱 I’m currently learning **Styled components & sorting algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matthewbates?tab=repositories](https://github.com/matthewbates?tab=repositories)
 
