@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Styled components & sorting algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/matthewbates?tab=repositories](https://github.com/matthewbates?tab=repositories)
+- 👨‍💻 All of my projects are available at https://matthewbates.dev
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
