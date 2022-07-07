@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a "what to do" application for Manitou Springs, CO that shows many attractions, shops, restaurants, etc.**
 
-- 🌱 I’m currently learning **Advanced SQL Golang, and Express**
+- 🌱 I’m currently learning **Golang and Express**
 
 - 👨‍💻 All of my projects are available at https://matthewbates.dev
 
