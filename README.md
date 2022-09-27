@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
 
-- 🔭 I’m currently working on **a "what to do" application for Manitou Springs, CO that shows many attractions, shops, restaurants, etc.**
+- 🔭 I’m currently working on **finishing up a responsive website for one of my clients. Stay tuned for its launch in the coming week!**
 
-- 🌱 I’m currently learning **Golang and Express**
+- 🌱 I’m currently learning **Node.js and Express**
 
 - 👨‍💻 All of my projects are available at https://matthewbates.dev
 
