@@ -1,21 +1,19 @@
-<h1 align="center">Hi, my name is Matthew Bates</h1>
+<h1 align="center">If you've gotten this far, I appreciate you! My name is Matthew, and I'm helping solve problems with technology.</h1>
 <h3 align="center">I'm a passionate, driven technologist & content creator.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
 
-- 🔭 I’m currently working on **finishing up a responsive website for one of my clients. Stay tuned for its launch in the coming week!**
+- 🔭 I’m currently **learning Python && eventually Django. I'm glad I have Ruby experience, it's helping ease the transition.**
 
-- 🌱 I’m currently learning **Node.js and Express**
-
-- 👨‍💻 All of my projects are available at https://matthewbates.dev
+- 👨‍💻 All of my projects are available at https://matthewbates.dev - I love having made a portfolio site, it's a great way to continuously practice/grow with no real repercussions
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **JavaScript, React/Redux, Ruby on Rails, and SQL**
+- 💬 Ask me about **How I can help you, or how we could collab on a cool project!**
 
 - 📫 How to reach me **mhcb@tutanota.com**
 
-- ⚡ Fun fact **When I'm not programming, I enjoy backpacking 🎒🏔, skiing ⛷, and spending time with my Australian Shepherd, Sterling 🐶**
+- ⚡ Fun fact **When I'm not programming, I enjoy backpacking 🎒🏔, skiing ⛷, and hiking all around Colorado with my Australian Shepherd, Sterling 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
