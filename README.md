@@ -1,4 +1,4 @@
-<h1 align="center">If you've gotten this far, I appreciate you! My name is Matthew, and I help solve problems with technology.</h1>
+<h1 align="center">My name is Matthew, and I help solve problems with technology.</h1>
 <h3 align="center">I'm a passionate, driven technologist & content creator.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
