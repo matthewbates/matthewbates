@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
 
-- 🔭 I’m currently **learning Python && eventually Django. I'm glad I have Ruby experience, it's helping ease the transition.**
+- 🔭 I’m currently **learning Node.js. I've decided that sticking with JavaScript, React, and React Native are enough for now, and Node.js will round out my full-stack capabilities.**
 
-- 👨‍💻 All of my projects are available at https://matthewbates.dev
+- 👨‍💻 I'm an applications developer at the University of Denver. Having a direct impact on the technology the entire campus uses is incredibly exciting (and challenging)!
+
+- 📊 All of my projects are available at https://matthewbates.dev
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
