@@ -46,6 +46,6 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=matthewbates&show_icons=true)
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewbates&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
