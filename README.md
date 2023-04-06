@@ -1,5 +1,4 @@
 <h1 align="center">My name is Matthew, and I help solve problems with technology.</h1>
-<h3 align="center">I'm a passionate, driven technologist & content creator.</h3>
 
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewbates&show_icons=true&theme=react)
 
@@ -48,5 +47,5 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewbates&layout=compact)](https://github.com/matthewbates/github-readme-stats)
 
