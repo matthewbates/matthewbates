@@ -2,6 +2,8 @@
 
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewbates&show_icons=true&theme=react)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
+
 - 🔭 I’m currently building **A large-scale finance tracker. More to come!**
 
 - 👨‍💻 I'm an applications developer at the University of Denver. Having a direct impact on the technology the entire campus uses is incredibly exciting (and challenging)!
