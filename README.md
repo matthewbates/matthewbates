@@ -1,22 +1,33 @@
-<h1 align="center">My name is Matthew, and I help solve problems with technology.</h1>
+# Learn from your mistakes...and that's exactly what I did
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewbates&show_icons=true&theme=react)
+## Introduction
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbates&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbates" /> </p>
+I 👀 my spending, and I wanted an app that could help hold me more accountable. I plan on nonstop, continuous updates so, maybe, I can help someone besides myself.
 
-- 🔭 I’m currently building **A large-scale finance tracker. More to come!**
+## Installation
 
-- 👨‍💻 I'm an applications developer at the University of Denver. Having a direct impact on the technology the entire campus uses is incredibly exciting (and challenging)!
+To install the app, follow these steps:
 
-- 📊 All of my projects are available at https://matthewbates.dev
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies by running `npm install` or `yarn install`.
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+## Usage
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, and more...**
+To use the app:
 
-- 📫 How to reach me **mhcb@tutanota.com**
+1. Run the development server by executing `npm start` or `yarn start`.
+2. Open your web browser and navigate to `http://localhost:3000`.
 
-- ⚡ Fun fact **When I'm not programming, I enjoy backpacking 🎒🏔, skiing ⛷, and hiking all around Colorado with my Australian Shepherd, Sterling 🐶**
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
