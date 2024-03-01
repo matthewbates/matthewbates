@@ -1,34 +1,3 @@
-# Learn from your mistakes...and that's exactly what I did
-
-## Introduction
-
-I 👀 my spending, and I wanted an app that could help hold me more accountable. I plan on nonstop, continuous updates so, maybe, I can help someone besides myself.
-
-## Installation
-
-To install the app, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Install dependencies by running `npm install` or `yarn install`.
-
-## Usage
-
-To use the app:
-
-1. Run the development server by executing `npm start` or `yarn start`.
-2. Open your web browser and navigate to `http://localhost:3000`.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mhcbates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhcbates" height="30" width="40" /></a>
